@@ -1,0 +1,33 @@
+h1 {
+    font-size: 48px;
+    color: darkred;
+    text-align: center;
+} 
+div {
+    background-color: blanchedalmond;
+    padding: 50px;
+    border: 3px solid lightsalmon;
+    border-radius: 5px;
+}
+.post-1 {
+    margin-bottom: 50px;
+}
+h3 {
+    font-size: 28px;
+}
+img {
+    width: 700px;
+    margin-top: 20px;
+}
+p {
+    font-size: 22px;
+}
+/*
+
+selector {
+    svojstvo znachenie svojstva
+}
+
+
+
+*/
