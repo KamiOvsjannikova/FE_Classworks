@@ -1,0 +1,8 @@
+body {
+    transition: .5s;
+}
+
+.is-dark {
+    background: #3333;
+    color: #ffff;
+}
